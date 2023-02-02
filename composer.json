@@ -1,0 +1,17 @@
+{
+    "name": "mraahe/nepalib",
+    "description": "Library for Nepali Text and Date Converter from mraahe",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mraahe\\Nepalib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mraahe",
+            "email": "rajesh.maharjan21@gmail.com"
+        }
+    ],
+    "require": {}
+}
